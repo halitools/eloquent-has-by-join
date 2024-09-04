@@ -1,8 +1,14 @@
 {
-    "name": "k-halito/eloquent-has-by-join",
+    "name": "halitools/eloquent-has-by-join",
     "description": "Convert has() and whereHas() constraints to join() ones for single-result relations.",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "mpyw",
+            "email": "ryosuke_i_628@yahoo.co.jp"
+        }
+    ],
     "keywords": ["laravel", "eloquent", "has", "whereHas", "join", "laravel", "illuminate", "database", "query", "builder", "macro"],
     "autoload": {
         "psr-4": {
